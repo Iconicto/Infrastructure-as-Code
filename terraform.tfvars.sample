@@ -1,0 +1,10 @@
+isala_me = {
+    project: ""
+    region: ""
+    service_name: ""
+    image: ""
+    domain: ""
+    github_owner: ""
+    github_repository: ""
+    github_branch: ""
+}
