@@ -8,3 +8,14 @@ isala_me = {
     github_repository: ""
     github_branch: ""
 }
+
+chari_lake = {
+    project: ""
+    region: ""
+    service_name: ""
+    image: ""
+    domain: ""
+    github_owner: ""
+    github_repository: ""
+    github_branch: ""
+}
